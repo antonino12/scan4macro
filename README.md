@@ -1,4 +1,4 @@
-# ScanUnsafe4Macro
+# Scan4Macro
 <h3>This is a Netbean Project, checking unsafe commands for a Java Macro File.</h3>
 <h4>To run, open Netbean and set Running Parameters in Running Settings of Netbean project.</h4>
 <h4>Set the paramter like below.</h4>
